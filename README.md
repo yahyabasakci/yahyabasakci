@@ -7,13 +7,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-![GnuBash](https://img.shields.io/badge/GNUBash-0000000.svg?style=for-the-badge&logo=GNUBash&logoColor=ffffff&labelColor=4eaa25)
-![C](https://img.shields.io/badge/C-0000000.svg?style=for-the-badge&logo=C&logoColor=white&labelColor=a8b9cc)
-![Java](https://img.shields.io/badge/JAVA-0000000.svg?style=for-the-badge&logoColor=white&labelColor=a8b9cc)
-![JavaScript](https://img.shields.io/badge/JavaScript-0000000.svg?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=f7df1e)
-![Linux](https://img.shields.io/badge/Linux-0000000.svg?style=for-the-badge&logo=Linux&logoColor=000000&labelColor=fcc624)
-![PHP](https://img.shields.io/badge/PHP-0000000.svg?style=for-the-badge&logo=PHP&logoColor=ffffff&labelColor=777bb4)
-![Python](https://img.shields.io/badge/Python-0000000.svg?style=for-the-badge&logo=Python&logoColor=ffffff&labelColor=3776ab)
-![Ruby](https://img.shields.io/badge/Ruby-0000000.svg?style=for-the-badge&logo=Ruby&logoColor=ffffff&labelColor=cc342d)
--
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
