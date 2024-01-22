@@ -17,3 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-0000000.svg?style=for-the-badge&logo=Python&logoColor=ffffff&labelColor=3776ab)
 ![Ruby](https://img.shields.io/badge/Ruby-0000000.svg?style=for-the-badge&logo=Ruby&logoColor=ffffff&labelColor=cc342d)
 -
+<div align="center">
+ <img height=180px src="https://github-readme-stats-bnqo.vercel.app/api?username=yahyabasakci&theme=gruvbox&show_icons=true" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yahyabasakci&theme=gruvbox"  width="470" alt="Yahya Başakçi"/>
+</div>
